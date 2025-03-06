@@ -1229,3 +1229,15 @@
 3/6/2025 | 8:18:19 AM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
 3/6/2025 | 8:18:52 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 3/6/2025 | 8:18:52 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+3/6/2025 | 12:27:38 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/6/2025 | 12:27:39 PM | INFO | Start process for wallet 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+3/6/2025 | 12:27:40 PM | INFO | Trying To Login for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+3/6/2025 | 12:27:40 PM | INFO | Login successful... 
+3/6/2025 | 12:27:40 PM | INFO | Trying to check user info... 
+3/6/2025 | 12:27:41 PM | INFO | User ID: 28236774 | Twitter: @gnidyaa | Total Points: 504000 
+3/6/2025 | 12:27:41 PM | INFO | Trying to check user miner status... 
+3/6/2025 | 12:27:42 PM | INFO | Last mining time: 3/5/2025, 4:17:24 AM
+3/6/2025 | 12:27:42 PM | INFO | Trying to start Mining for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+3/6/2025 | 12:27:43 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+3/6/2025 | 12:27:43 PM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+3/6/2025 | 12:27:49 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x010bc6420a5ad4ee36d0aa154e4883a0283ada253eeaf2ece78f7f5a07dfec86 
