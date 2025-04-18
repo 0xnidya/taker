@@ -3570,3 +3570,12 @@
 4/17/2025 | 8:16:10 PM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
 4/17/2025 | 8:16:10 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:16:10 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:09:22 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:09:22 AM | INFO | Start process for wallet 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+4/18/2025 | 1:09:23 AM | INFO | Trying To Login for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+4/18/2025 | 1:09:23 AM | INFO | Login successful... 
+4/18/2025 | 1:09:23 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:09:24 AM | INFO | User ID: 28236774 | Twitter: @gnidyaa | Total Points: 1368000 
+4/18/2025 | 1:09:24 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:09:32 AM | INFO | Last mining time: 4/17/2025, 12:29:12 PM
+4/18/2025 | 1:09:32 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:29:12 PM
