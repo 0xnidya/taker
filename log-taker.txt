@@ -5032,3 +5032,12 @@
 5/13/2025 | 8:21:07 AM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
 5/13/2025 | 8:21:08 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/13/2025 | 8:21:08 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 12:31:35 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 12:31:35 PM | INFO | Start process for wallet 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+5/13/2025 | 12:31:36 PM | INFO | Trying To Login for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+5/13/2025 | 12:31:37 PM | INFO | Login successful... 
+5/13/2025 | 12:31:37 PM | INFO | Trying to check user info... 
+5/13/2025 | 12:31:37 PM | INFO | User ID: 28236774 | Twitter: @gnidyaa | Total Points: 1944000 
+5/13/2025 | 12:31:37 PM | INFO | Trying to check user miner status... 
+5/13/2025 | 12:31:42 PM | INFO | Last mining time: 5/13/2025, 4:19:30 AM
+5/13/2025 | 12:31:42 PM | WARN | Mining already started, next mining time is: 5/14/2025, 4:19:30 AM
