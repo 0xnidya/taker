@@ -5472,3 +5472,15 @@
 5/21/2025 | 1:13:58 AM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
 5/21/2025 | 1:14:01 AM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e8204655c830186a083200b2082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a01219f179a124cfa811869a9ce8ba61fd543a962a6d70b4d9222d1a5bb491ae99a026555c947b08b1dbeb44213967d2db321bf62abcdec49aea741c6baff8336226","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/21/2025 | 1:14:01 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 4:19:16 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 4:19:16 AM | INFO | Start process for wallet 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+5/21/2025 | 4:19:16 AM | INFO | Trying To Login for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+5/21/2025 | 4:19:17 AM | INFO | Login successful... 
+5/21/2025 | 4:19:17 AM | INFO | Trying to check user info... 
+5/21/2025 | 4:19:18 AM | INFO | User ID: 28236774 | Twitter: @gnidyaa | Total Points: 2088000 
+5/21/2025 | 4:19:18 AM | INFO | Trying to check user miner status... 
+5/21/2025 | 4:19:19 AM | INFO | Last mining time: 5/19/2025, 8:16:57 PM
+5/21/2025 | 4:19:19 AM | INFO | Trying to start Mining for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+5/21/2025 | 4:19:20 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 4:19:20 AM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+5/21/2025 | 4:19:44 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x23abf55d0ecd5ba763fa4c24760293fa2cf9be086fa74e95643684a694913932 
