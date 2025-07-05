@@ -8064,3 +8064,15 @@
 7/5/2025 | 12:28:39 PM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
 7/5/2025 | 12:28:44 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818580831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a0c332c10a20f7045c1ee07fa4e0658183efc0930ce4e03a8e41a5e95f0bccb54da037e7c0a4e9e1e71b5ef85fa48aa59f5ed346eccde2bc87d9f7fc000ca688d5d9"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 12:28:44 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 4:17:38 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 4:17:39 PM | INFO | Start process for wallet 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/5/2025 | 4:17:39 PM | INFO | Trying To Login for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/5/2025 | 4:17:40 PM | INFO | Login successful... 
+7/5/2025 | 4:17:40 PM | INFO | Trying to check user info... 
+7/5/2025 | 4:17:41 PM | INFO | User ID: 28236774 | Twitter: @gnidyaa | Total Points: 3072000 
+7/5/2025 | 4:17:41 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 4:17:42 PM | INFO | Last mining time: 7/4/2025, 4:26:12 AM
+7/5/2025 | 4:17:42 PM | INFO | Trying to start Mining for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/5/2025 | 4:17:42 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 4:17:42 PM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/5/2025 | 4:17:54 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9f229dee1e906748eb0c834fdb74baf8abd59941b0729ad5a339c1a248a4becb 
