@@ -8679,3 +8679,15 @@
 7/16/2025 | 8:22:00 AM | INFO | Trying to check user miner status... 
 7/16/2025 | 8:22:01 AM | INFO | Last mining time: 7/15/2025, 12:34:33 PM
 7/16/2025 | 8:22:01 AM | WARN | Mining already started, next mining time is: 7/16/2025, 12:34:33 PM
+7/16/2025 | 12:34:40 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/16/2025 | 12:34:40 PM | INFO | Start process for wallet 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/16/2025 | 12:34:41 PM | INFO | Trying To Login for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/16/2025 | 12:34:42 PM | INFO | Login successful... 
+7/16/2025 | 12:34:42 PM | INFO | Trying to check user info... 
+7/16/2025 | 12:34:42 PM | INFO | User ID: 28236774 | Twitter: @gnidyaa | Total Points: 3288000 
+7/16/2025 | 12:34:42 PM | INFO | Trying to check user miner status... 
+7/16/2025 | 12:34:43 PM | INFO | Last mining time: 7/15/2025, 12:34:33 PM
+7/16/2025 | 12:34:43 PM | INFO | Trying to start Mining for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/16/2025 | 12:34:44 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+7/16/2025 | 12:34:44 PM | INFO | Trying to activate mining on-chain for wallet: 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 
+7/16/2025 | 12:34:55 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfdd226edf51d2f8c313c63af8adc758e21100fb8e29bb3ef60210c21c172b5f8 
